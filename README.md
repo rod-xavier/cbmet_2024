@@ -1,6 +1,7 @@
 feature_extraction computes variables extracted from .wav audio files
   - Spectrograms
     - Pixel distribution histograms
+  - Power Spectrum Density
   - Linear Predictive Coefficients
   - Mel Frequency Cepstral Coefficients
 
